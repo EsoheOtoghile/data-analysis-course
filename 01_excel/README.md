@@ -31,3 +31,23 @@ An independent business analysis project using Pivot Tables and Pivot Charts to 
 - Total revenue analysed was £41,600.
 
 **Workbook:** `Excel_Pivot_Table_Practical_Challenge.xlsx`
+
+### Excel Level 4 — Lookups & Pivot Tables
+
+This workbook demonstrates the use of Excel lookup functions and Pivot Tables for practical data analysis.
+
+**Skills demonstrated:**
+- XLOOKUP
+- VLOOKUP
+- HLOOKUP
+- Exact-match lookups
+- Retrieving data from structured datasets
+- Excel Tables and dynamic data sources
+- Pivot Tables
+- Sorting and filtering Pivot Tables
+- Show Values As calculations
+- Date grouping by months, quarters, and years
+- Pivot Charts
+- Business data interpretation
+
+**Workbook:** `Excel_Level_4_Lookups_Pivot_Tables.xlsx`
