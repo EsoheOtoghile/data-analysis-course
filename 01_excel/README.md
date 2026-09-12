@@ -4,6 +4,121 @@ This section contains the Excel part of the Data Analysis Course.
 
 We will start from the fundamentals and progress toward professional data-analysis workflows.
 
+## Excel Learning Progress
+
+### ✅ Level 1 — Excel Foundations — COMPLETE
+
+**Topics completed:**
+- Excel workbook and worksheet fundamentals
+- Rows, columns, cells, and ranges
+- Working with structured datasets
+- Understanding text and numerical data
+- Basic data exploration
+- SUM
+- AVERAGE
+- MIN
+- MAX
+- COUNT
+- COUNTA
+- Basic sorting and filtering
+- Identifying patterns and trends in data
+- Basic business-data interpretation
+
+---
+
+### ✅ Level 2 — Formulas & Logical Analysis — COMPLETE
+
+**Topics completed:**
+- COUNTIF
+- COUNTIFS
+- SUMIF
+- SUMIFS
+- AVERAGEIF
+- AVERAGEIFS
+- IF
+- Nested IF
+- IFS
+- AND
+- OR
+- NOT
+- IFERROR
+- Conditional calculations
+- Multiple-criteria analysis
+- Practical formula-based business analysis
+
+---
+
+### ✅ Level 3 — Data Cleaning — COMPLETE
+
+**Topics completed:**
+- Identifying data-quality problems
+- Removing duplicate records
+- Handling inconsistent text
+- TRIM
+- PROPER
+- LOWER
+- LEFT
+- MID
+- LEN
+- FIND
+- Find & Replace
+- Remove Duplicates
+- Cleaning and standardising datasets
+- Validating cleaned data
+- Professional dataset formatting
+- Practical data-cleaning project
+
+---
+
+### ✅ Level 4 — Lookups & Pivot Tables — COMPLETE
+
+**Lookup topics completed:**
+- XLOOKUP
+- VLOOKUP
+- HLOOKUP
+- Exact-match lookups
+- Approximate-match lookups
+- Absolute references in lookup formulas
+- Custom not-found messages
+- IFERROR with lookup functions
+- Retrieving values from structured datasets
+
+**Pivot Table topics completed:**
+- Creating Pivot Tables
+- Rows, Columns, Values, and Filters
+- Sum and Count calculations
+- Sorting and filtering Pivot Tables
+- Show Values As
+- % of Grand Total
+- Excel Tables as dynamic Pivot Table sources
+- Refreshing Pivot Tables
+- Date grouping
+- Grouping by Months
+- Grouping by Quarters
+- Grouping by Years
+- Multi-level date analysis
+- Pivot Charts
+- Column charts
+- Line charts
+- Chart titles and data labels
+- Currency and percentage formatting
+- Chart filtering and field buttons
+- Choosing appropriate charts for business questions
+- Business insight interpretation
+- Independent Pivot Table Practical Challenge
+
+---
+
+## Current Progress
+
+| Level | Topic | Status |
+|---|---|---|
+| Level 1 | Excel Foundations | ✅ Complete |
+| Level 2 | Formulas & Logical Analysis | ✅ Complete |
+| Level 3 | Data Cleaning | ✅ Complete |
+| Level 4 | Lookups & Pivot Tables | ✅ Complete |
+| Level 5 | Excel Dashboards & Visual Reporting | ⬜ Next |
+
 ## Projects
 
 ### Excel Level 3 Final Project
