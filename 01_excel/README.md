@@ -173,6 +173,10 @@ This workbook demonstrates the use of Excel lookup functions and Pivot Tables fo
 
 Built an interactive Excel sales performance dashboard to analyse revenue, units sold, regional performance, product performance, salesperson performance, and monthly sales trends across 2025 and 2026.
 
+#### Dashboard Preview
+
+![Excel Level 5 Interactive Sales Dashboard](Level_5_Sales_Dashboard_Preview.png)
+
 **Skills demonstrated:**
 - Data validation and quality checks
 - Excel Tables and structured data
