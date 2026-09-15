@@ -175,7 +175,7 @@ Built an interactive Excel sales performance dashboard to analyse revenue, units
 
 #### Dashboard Preview
 
-![Excel Level 5 Interactive Sales Dashboard](Level_5_Sales_Dashboard_Preview.png)
+![Excel Level 5 Interactive Sales Dashboard](Level_5_Sales_Dashboard_Preview.png.png)
 
 **Skills demonstrated:**
 - Data validation and quality checks
