@@ -117,7 +117,7 @@ We will start from the fundamentals and progress toward professional data-analys
 | Level 2 | Formulas & Logical Analysis | ✅ Complete |
 | Level 3 | Data Cleaning | ✅ Complete |
 | Level 4 | Lookups & Pivot Tables | ✅ Complete |
-| Level 5 | Excel Dashboards & Visual Reporting | ⬜ Next |
+| Level 5 | Excel Dashboards & Visual Reporting | ✅ Complete |
 
 ## Projects
 
@@ -166,3 +166,53 @@ This workbook demonstrates the use of Excel lookup functions and Pivot Tables fo
 - Business data interpretation
 
 **Workbook:** `Excel_Level_4_Lookups_Pivot_Tables.xlsx`
+
+---
+
+### Excel Level 5 — Interactive Sales Dashboard
+
+Built an interactive Excel sales performance dashboard to analyse revenue, units sold, regional performance, product performance, salesperson performance, and monthly sales trends across 2025 and 2026.
+
+**Skills demonstrated:**
+- Data validation and quality checks
+- Excel Tables and structured data
+- Pivot Tables
+- Pivot Charts
+- KPI cards
+- Revenue and units-sold analysis
+- Regional performance analysis
+- Product performance analysis
+- Salesperson performance analysis
+- Monthly and yearly trend analysis
+- Interactive slicers
+- Report Connections across multiple Pivot Tables
+- Multi-filter dashboard analysis
+- Dashboard layout and visual formatting
+- Dashboard testing and quality assurance
+
+**Dashboard KPIs:**
+- Total Revenue: £440,679
+- Total Units Sold: 1,147
+- Top Region: South — £121,083
+- Top Product: Laptop — £152,640
+- Top Salesperson: David — £83,122
+
+**Dashboard visuals:**
+- Monthly Revenue Trend — 2025 vs 2026
+- Revenue by Region
+- Revenue by Salesperson
+
+**Interactive filters:**
+- Region
+- Product
+- Year
+
+The slicers are connected across multiple Pivot Tables, allowing users to dynamically analyse combinations of region, product, and year.
+
+**Key analytical insight:**
+
+Filtering the dashboard to South and 2026 showed total revenue of £37,962 from 156 units. Printer was the top-performing product for this selection, generating £21,398 from 48 units.
+
+**Workbook:** `Excel_Level_5_Interactive_Sales_Dashboard.xlsx`
+
+**Dashboard Preview:** `Level_5_Sales_Dashboard_Preview.png`
