@@ -79,9 +79,9 @@ Interactive filtering showed that the South region generated £37,962 in revenue
 
 ## Learning Approach
 
-I am starting from scratch and building my skills progressively. Each stage will include explanations, guided practice, independent exercises, and projects.
+Building my professional data analyst skills progressively. Each stage will include explanations, guided practice, independent exercises, and projects.
 
 ---
 
-**Student:** Esohe Otoghile  
-**Goal:** Become a professional data analyst
+ Esohe Otoghile  
+**Goal:** Become a highly skilled professional data analyst
