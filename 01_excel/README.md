@@ -118,6 +118,7 @@ We will start from the fundamentals and progress toward professional data-analys
 | Level 3 | Data Cleaning | ✅ Complete |
 | Level 4 | Lookups & Pivot Tables | ✅ Complete |
 | Level 5 | Excel Dashboards & Visual Reporting | ✅ Complete |
+| Level 6 | [Advanced Data Analysis](Excel_Level_6_Advanced_Data_Analysis.xlsx) | Workbook uploaded |
 
 ## Projects
 
